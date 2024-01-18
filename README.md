@@ -1,6 +1,5 @@
 # SwiftUI-Masterclass
 There are 7 projects developed with SwiftUI.
-
 ## Built With
 
 - [Swift](https://developer.apple.com/swift/)
